@@ -11,8 +11,19 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrPeachy&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <h2>Softwares</h2>
+
 <h2>TechStacks</h2>
 <h2>Social Media</h2>
-![<img src="https://github.com/DrPeachy/Drpeachy/assets/91103612/b79804e8-bb00-4a1f-bbf7-73b53c3eb1da">](https://steamcommunity.com/id/1067838263/)
+
+<a href="https://steamcommunity.com/id/1067838263/">
+  <img height="50" src="https://github.com/DrPeachy/Drpeachy/assets/91103612/b79804e8-bb00-4a1f-bbf7-73b53c3eb1da"/>
+</a>
+<a href="https://www.linkedin.com/in/p1067838263/">
+  <img height="50" src="https://github.com/DrPeachy/Drpeachy/assets/91103612/31965524-3ba3-4bfe-97a2-5ad5ce72b8d4"/>
+</a>
+<a href="https://www.instagram.com/ch4rl3s2001/">
+  <img height="50" src="https://github.com/DrPeachy/Drpeachy/assets/91103612/27355d38-c2f9-4089-8951-4294a50c6aa1"/>
+</a>
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a169c9,100:cfa1f0&animation=twinkling&height=150&section=footer&fontSize=50&fontColor=faf6f9)
