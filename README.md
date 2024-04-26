@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a169c9,100:cfa1f0&animation=twinkling&height=200&section=header&text=Sup!%20Here's%20Charles&fontSize=55&fontColor=faf6f9&fontAlignY=35&stroke=ecf542&desc=Welcome%20to%20%20my%20github&descSize=30&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a169c9,100:cfa1f0&animation=twinkling&height=200&section=header&text=Sup!%20Here's%20Charles&fontSize=55&fontColor=faf6f9&fontAlignY=35&stroke=2c1a3b&strokeWidth=2&desc=Welcome%20to%20%20my%20github&descSize=30&descAlignY=60)
 <h2>About me</h2>
 
 - 🎓 Graduated from New York University with a major in Computer Science and a minor in Game Engineering.
@@ -37,18 +37,10 @@
 <img src="icons/python.svg" width = 40>
 <h2>Social Media</h2>
 <p align="left">
-<a href="https://steamcommunity.com/id/1067838263/">
-  <img height="40" src="icons/steam.svg"/>◄
-</a>
-<a href="https://www.linkedin.com/in/p1067838263/">
-  <img height="40" src="icons/linkedin.svg"/>◄
-</a>
-<a href="https://1067838263.itch.io/">
-  <img height="40" src="icons/itchdotio.svg"/>◄
-</a>
-<a href="https://www.instagram.com/ch4rl3s2001/">
-  <img height="40" src="icons/instagram.svg"/>◄
-</a>
+<a href="https://steamcommunity.com/id/1067838263/"><img height="40" src="icons/steam.svg"/></a>
+<a href="https://www.linkedin.com/in/p1067838263/"><img height="40" src="icons/linkedin.svg"/></a>
+<a href="https://1067838263.itch.io/"><img height="40" src="icons/itchdotio.svg"/></a>
+<a href="https://www.instagram.com/ch4rl3s2001/"><img height="40" src="icons/instagram.svg"/></a>
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a169c9,100:cfa1f0&animation=twinkling&height=150&section=footer&fontSize=50&fontColor=faf6f9)
