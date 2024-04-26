@@ -7,9 +7,9 @@
 - 🎨 Obsessed with merging technology with artistic expression in gaming.
 - 🌟 Explore my projects to see my journey and skills in game development.
 
+<a href="https://github.com/DrPeachy"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DrPeachy&show_icons=true&title_color=faf6f9&text_color=faf6f9&bg_color=30,a169c9,cfa1f0&count_private=true" /></a>
+<a href="https://github.com/DrPeachy"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrPeachy&layout=compact&title_color=faf6f9&text_color=faf6f9&bg_color=50,a169c9,cfa1f0" /></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrPeachy&show_icons=true&bg_color=30,e96443,904e95&count_private=true&card_width=150)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrPeachy&layout=donut&bg_color=30,e96443,904e95&card_width=150)](https://github.com/anuraghazra/github-readme-stats)
 <h2>Softwares</h2>
 <p align="left">
 <img src="icons/unity.svg" width = 40>
