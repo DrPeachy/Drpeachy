@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a169c9,100:cfa1f0&animation=twinkling&height=160&section=header&text=Sup!%20Here's%20Charles&fontSize=50&fontColor=faf6f9&fontAlignY=35&stroke=ecf542&desc=Welcome%20to%20%20my%20github&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a169c9,100:cfa1f0&animation=twinkling&height=200&section=header&text=Sup!%20Here's%20Charles&fontSize=55&fontColor=faf6f9&fontAlignY=35&stroke=ecf542&desc=Welcome%20to%20%20my%20github&descSize=30&descAlignY=60)
 <h2>About me</h2>
 
 - 🎓 Graduated from New York University with a major in Computer Science and a minor in Game Engineering.
@@ -7,17 +7,20 @@
 - 🎨 Obsessed with merging technology with artistic expression in gaming.
 - 🌟 Explore my projects to see my journey and skills in game development.
 
-<br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrPeachy&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrPeachy&show_icons=true&bg_color=30,e96443,904e95&count_private=true&card_width=150)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrPeachy&layout=donut&bg_color=30,e96443,904e95&card_width=150)](https://github.com/anuraghazra/github-readme-stats)
 <h2>Softwares</h2>
 <p align="left">
 <img src="icons/unity.svg" width = 40>
 <img src="icons/sourcetree.svg" width = 40>
-<img src="icons/adobephotoshop.svg" width = 40>
-<img src="icons/blender.svg" width = 40>
+<img src="icons/visualstudiocode.svg" width = 40>
 <img src="icons/autodeskmaya.svg" width = 40>
+<img src="icons/zbrush-svgrepo-com.svg" width = 40>
+<img src="icons/blender.svg" width = 40>
+<img src="icons/adobephotoshop.svg" width = 40>
 <img src="icons/aseprite.svg" width = 40>
+
 <h2>Techstacks</h2>
   <p align="left">
 <img src="icons/javascript.svg" width = 40>
@@ -35,16 +38,16 @@
 <h2>Social Media</h2>
 <p align="left">
 <a href="https://steamcommunity.com/id/1067838263/">
-  <img height="40" src="icons/steam.svg"/>steam
+  <img height="40" src="icons/steam.svg"/>◄
 </a>
 <a href="https://www.linkedin.com/in/p1067838263/">
-  <img height="40" src="icons/linkedin.svg"/>linkedin
+  <img height="40" src="icons/linkedin.svg"/>◄
 </a>
 <a href="https://1067838263.itch.io/">
-  <img height="40" src="icons/itchdotio.svg"/>itch.io
+  <img height="40" src="icons/itchdotio.svg"/>◄
 </a>
 <a href="https://www.instagram.com/ch4rl3s2001/">
-  <img height="40" src="icons/instagram.svg"/>instagram
+  <img height="40" src="icons/instagram.svg"/>◄
 </a>
 
 
