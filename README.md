@@ -8,8 +8,8 @@
 - 🌟 Explore my projects to see my journey and skills in game development.
 
 <div style="display: flex; flex-direction: row;">
-  <a href="https://github.com/DrPeachy"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DrPeachy&show_icons=true&title_color=faf6f9&text_color=faf6f9&bg_color=30,a169c9,cfa1f0&count_private=true" /></a>
-  <a href="https://github.com/DrPeachy"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrPeachy&layout=compact&title_color=faf6f9&text_color=faf6f9&bg_color=50,a169c9,cfa1f0" /></a> 
+  <a href="https://github.com/DrPeachy"><img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=DrPeachy&show_icons=true&title_color=faf6f9&text_color=faf6f9&bg_color=30,a169c9,cfa1f0&count_private=true" /></a>
+  <a href="https://github.com/DrPeachy"><img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrPeachy&layout=compact&title_color=faf6f9&text_color=faf6f9&bg_color=50,a169c9,cfa1f0" /></a> 
 </div>
 
 <h2>Softwares</h2>
